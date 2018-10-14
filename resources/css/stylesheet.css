@@ -1,0 +1,11 @@
+/*
+
+*/
+
+.smash_img_row{
+	display: flex;
+}
+
+.smash_img_column{
+	flex: 16.66%;
+}
